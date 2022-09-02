@@ -1,4 +1,4 @@
 ## Topologically Protected All‐Optical Memory
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** The separation of processing and storage units in von Neumann architecture has caused an unavoidable memory wall bottleneck in modern computing systems. While the near- or in-memory computation have been suggested in electronic systems, the realization of an all-optical in-memory processor had not been successful. Here, we proposed an all-optical building block for photonic in-memory processors by exploiting dynamically stable states in nonlinear parity-time-symmetric systems. 
 
