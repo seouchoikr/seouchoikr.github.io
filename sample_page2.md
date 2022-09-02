@@ -1,5 +1,4 @@
 ## Topologically Protected All‐Optical Memory
 
-**Project description:** The separation of processing and storage units in von Neumann architecture has caused an unavoidable memory wall bottleneck in modern computing systems. While the near- or in-memory computation have been suggested in electronic systems to overcome this problem, the realization of an all-optical in-memory processor had not been successful. Here, we propose an all-optical building block for photonic in-memory processors by exploiting dynamically stable states in nonlinear parity-time-symmetric systems. 
+**Project description:** Tunable color displays by simply changing the handedness of circularly polarized light has been suggested. Analyzing the higher-order multipole moments in z-shaped silicon nanostructures, we found a group of metasurfaces spanning the entire visible spectrum under left circulary polarized light. These colors become faded under right circularly polarized light.
 
-<img src="images/350dpi_JPG.jpg?raw=true"/>
