@@ -9,7 +9,7 @@
 
 ### Chirality-Selective All-Dielectric Metasurface Structural Color Display
 
-[View Details](/sample_page)
+[View Details](/sample_page)<br/>
 <img src="images/Chiral.jpg" width="300" height="105">
 
 
