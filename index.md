@@ -1,10 +1,10 @@
-## Portfolio
+## Publications
 
 ---
 
-### Category Name 1 
+### Topologically Protected All-Optical Memory
 
-[Project 1 Title](/sample_page)
+[View Details](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
