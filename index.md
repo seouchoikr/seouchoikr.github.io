@@ -5,7 +5,7 @@
 ### Topologically Protected All-Optical Memory
 
 [View Details](/sample_page)<br/>
-<img src="images/350dpi_JPG.jpg" width="600" height="800">
+<img src="images/350dpi_JPG.jpg" width="300" height="400">
 
 ### Chirality-Selective All-Dielectric Metasurface Structural Color Display
 
