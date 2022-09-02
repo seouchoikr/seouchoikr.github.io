@@ -5,4 +5,4 @@
 **Publication:** <br/>
 [1] Seou Choi, Jungmin Kim, Jeonghun Kwak, Namkyoo Park, and Sunkyu Yu, "Topologically-Protected All-Optical Memory," Advanced Electronic Materials 2022, 2200579 [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/aelm.202200579)
 <br/> 
-[2] Seou Choi, Namkyoo Park, and Sunkyu Yu, "Coexistence of Oscillation Quenching States in Nonlinear Parity-Time-Symmetric Systems," OSA Nonlinear Optics Topical Meeting 2021, NTh1A.8, Virtual, 12th August 2021
+[2] Seou Choi, Namkyoo Park, and Sunkyu Yu, "Coexistence of Oscillation Quenching States in Nonlinear Parity-Time-Symmetric Systems," OSA Nonlinear Optics Topical Meeting 2021, NTh1A.8, Virtual, 12th August 2021 [Link](https://opg.optica.org/abstract.cfm?uri=NLO-2021-NTh1A.8)
