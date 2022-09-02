@@ -7,7 +7,7 @@
 [View Details](/sample_page)<br/>
 <img src="images/350dpi_JPG.jpg" width="600" height="800">
 
-### Chirality-selective all-dielectric metasurface structural color display
+### Chirality-Selective All-Dielectric Metasurface Structural Color Display
 
 [View Details](/sample_page)
 <img src="images/350dpi_JPG.jpg?raw=true"/>
