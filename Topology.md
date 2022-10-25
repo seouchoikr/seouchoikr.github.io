@@ -2,6 +2,8 @@
 
 **Project description:** The separation of processing and storage units in von Neumann architecture has caused an unavoidable memory wall bottleneck in modern computing systems. While the near- or in-memory computation have been suggested in electronic systems to overcome this problem, the realization of an all-optical in-memory processor had not been successful. Here, we propose an all-optical building block for photonic in-memory processors by exploiting dynamically stable states in nonlinear parity-time-symmetric systems. 
 
+<img src="images/350dpi_JPG.jpg" width="300" height="400">
+
 This paper was selected for the inside cover of Advanced Electronic Materials (Volume 8, Issue 10) [Link](https://onlinelibrary.wiley.com/doi/10.1002/aelm.202270050)
 
 **Publication:** <br/>
