@@ -4,7 +4,7 @@
 
 ### Topologically Protected All-Optical Memory
 
-###Dynamically stable states in nonlinear parity-time-symmetric systems allow the design of all-optically controllable in-memory processing units.
+Dynamically stable states in nonlinear parity-time-symmetric systems allow the design of all-optically controllable in-memory processing units.
 
 [View Details](/sample_page)<br/>
 
