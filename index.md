@@ -4,13 +4,13 @@
 
 ### Topologically Protected All-Optical Memory
 
-Dynamically stable states in nonlinear parity-time-symmetric systems allow the design of **all-optically controllable in-memory processing units**.
+Dynamically stable states in nonlinear parity-time-symmetric systems allow the design of ***all-optically controllable in-memory processing units***.
 
 [View Details](/sample_page)<br/>
 
 #### Chirality-Selective All-Dielectric Metasurface Structural Color Display
 
-**Chirality-selective structural color displays** can be achieved with planar silicon metasurfaces. 
+***Chirality-selective structural color displays*** can be achieved with planar silicon metasurfaces. 
 
 [View Details](/sample_page2)<br/>
 
