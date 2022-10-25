@@ -10,7 +10,7 @@ Dynamically stable states in nonlinear parity-time-symmetric systems allow the d
 
 #### Chirality-Selective All-Dielectric Metasurface Structural Color Display
 
-Dynamically stable states in nonlinear parity-time-symmetric systems allow the design of all-optically controllable in-memory processing units.
+**Chirality-selective structural color displays** can be achieved with planar silicon metasurfaces. 
 
 [View Details](/sample_page2)<br/>
 
