@@ -11,7 +11,7 @@ Hi! My name is Soeu Choi, and I am a graduate student at Research Laboratory of 
 
 Dynamically stable states in nonlinear parity-time-symmetric systems allow the design of ***all-optically controllable in-memory processing units***.
 
-[View Details](/sample_page)<br/>
+[View Details](/Topology)<br/>
 
 #### Chirality-Selective All-Dielectric Metasurface Structural Color Display
 
