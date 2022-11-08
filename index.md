@@ -1,7 +1,7 @@
 ## About me
 
 ---
-Hi! My name is Soeu Choi, and I am a graduate student at Research Laboratory of Electronics in Massachusetts Institute of Technology. I have a wide range of interests in photonics, especially in photonic AI.
+Hi! My name is Seou Choi, and I am a graduate student at Research Laboratory of Electronics in Massachusetts Institute of Technology. I have a wide range of interests in photonics, especially in photonic AI.
 
 ## Publications
 
