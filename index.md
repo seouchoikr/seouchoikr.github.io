@@ -17,7 +17,7 @@ Dynamically stable states in nonlinear parity-time-symmetric systems allow the d
 
 ***Chirality-selective structural color displays*** can be achieved with planar silicon metasurfaces. 
 
-[View Details](/sample_page2)<br/>
+[View Details](/Metasurface)<br/>
 
 
 ---
